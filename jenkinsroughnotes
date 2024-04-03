@@ -1,0 +1,86 @@
+Cicd
+Every company develops project like e-commerce 
+Each and every project has 3layers database application or business logic and frontend 
+Traditional take more time develop all these app to implement all this delver uses any language of programming
+Integrate your application whenever delver commits the code 
+Start do integration from day1 it will fail
+Ensure  you have automate unit testing such as smoke test it is a basic test test the functionality for ex Facebook login and password
+Also check the code quality sonarqube
+Martin flower
+Ci tool for org which can detect when the code is committed to repo and execute the ci process and notify the results
+Azure DevOps , Jenkins, gitlab , GitHub Actions are cicd tools
+
+                                                                      JENKINS
+
+               BASIC QUESTION 
+TEST.BATCH FILE EVERY ONE HOUR I WANT TO RUN OR IN LINUX MY REQUMNT FILE RUN IN EVERY HOUR
+
+CRONJOB FOR EVRY ONEHOUR IN WINDOWS HOW TO RUN. TASK SCHEDULER MY COMP TASK SCHEDULER 
+ANY CICD WORKS LIKE A SCHEDULER ANY JOB ACTS LIKE A SCHEDULER JOBS
+ALL THIS CICD TOOL ACTS LIKE  A JOB OR TASK SCHDULER
+YOU TAKE ANY CICD TOOL  PERIODICALLY SCHEDULE  IT 
+UI INERFACE OF CICD JENKINS WILL HELPFUL 
+JENKINS PLUGINS VERY EASY TO USE
+
+OPENSOURCE TOOL ORCHESTRATION
+CLOUDBEES ENTERPRISE SUPPORT WHEN ERROR
+JENKINS PLUGINS HAVE MORE
+JENKINS INSTALL CAN BE IN WAR DOCKER , INDUSRTY  NOW JENKINS IN K8S DEPLOY
+
+HOSTNAME  YOU CAN CHECK WITH THE  CMD 
+HOSTNAMECTL  SET-HOSTNAME  JENKINS-MASTER
+BASH
+PREREQURI
+JAVA INSTALL BEFORE JENKINS
+
+ON SERVER APT-CACHE SEARCH OPEN-JDK VARIOUS VERSION IT SHOWS
+JENKINS SERVER UP OR NOT SYSTEMCTL STATUS JENKINS.SERVICE
+START THE JENKINS
+COPY AND SEARCH IN K8S OR IN CLOUD 
+
+COPY THE JENKINS AND PASTE IN SERVER
+
+SU
+
+
+mailrajeshsre@gmail.com
+
+Private ip  url change in pub private
+
+Landed in jenkinshome page
+ Exercise you need to install Jenkins in centos8 
+
+
+ERRORS OR DOUBTS :
+     			
+			
+		1. IF I INSTALL JENKINS IN K8S HERE ALSO WE NEED TO INSTALL FIRST JENKINS OR THROUGH DOCKER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Application or app to book the cinema tickets 
+We have more 
+
+Book my show , Paytm tickets, pvr , inbox
+Bus redbus abhibus
+
+Software code delivery very fast  they were release the first to market
+
+
+
+
+
