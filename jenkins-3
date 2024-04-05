@@ -1,0 +1,106 @@
+Jenkins day 3 :
+
+                        1.FOR WRITE NOTES USE ORG
+ 				2. USE IMP FOR GREEN COLOUR
+					USE ERRORS OR DOUBTS IN 
+                                  RED OR BLACK
+					USE BLUE FOR CMDS
+
+1 DevOps is integrated with agile process
+2.  Sudo apt-cache search 
+Exercise do with centos or any os
+3 quick install of Jenkins
+4=>
+         IN INTERVIEWS THEY WILL ASK LIKE HOW MANY WAYS TO SETUP OR     
+		
+		INSTALL JENKINS
+
+         IN WINDOWS OR  JENKINS PAGE AND INSTALL BEFORE INSTALL JAVA
+ MOST OF THE ORG NOT USED MOSTLY IN WINDOWS
+
+        LINUX FLAVOUR
+      
+          3  USING WAR FILE OR JENKINS.JAR DIRECTLY DOWNLOAD
+         
+          4     JAVA -JAR JENKINS.WAR WITH JAROR WAR FILE
+            GO WITH INSTALL THROUGH DOCKER  FOR JENKINS
+            
+             TOMCAT INSTALL  JENKINS.ZIP FILE PLACE INTO TOMCAT   APP SERVER
+               
+
+                                       
+
+                   COMMANDS
+               
+                       SYSTEMCTL IS CMD WHETHER THE  SERVICE IS UP OR NOT
+
+                   			SYSTEMCTL STATUS JENKINS.SERVICE
+                       
+                                                       SYSTEMCTL  ENABLE   
+                     PLUGINS SHOULD BE RESTARTED   AUTOMATICALLY COMEUP
+COPY THE JENKINS PASSWORD 
+
+
+CAT COPY
+
+
+
+
+
+1  DOCKER INSTALL AFTER INSIDE DOCKER    
+     INSTALL JENKINS
+
+ 2.    GET.DOCKER.COM  
+
+CMDS 
+      
+         TO CHECK SYSTEMCTL STATUS , ENABLE
+IN DOCKERHUB 
+
+
+           INSTALL JENKINS
+COPY AND RUN 
+
+   DOCKER CONTAINER RUN -ITD -P 8081:8080 JENKINS/JENKINS
+
+
+TO VERIFY 
+   
+           DOCKER CONTAINER LS
+\
+TO GO INSIDE JENKINS CONTAINER 
+     
+         WE USE CMD AS DOCKER CONTAINER EXEC -IT CONTAINR ID /BIN/BASH SMALL LETTERS
+
+
+BETTER ALWAYS INSTALL DOCKER 
+ANSIBLE WITHIN YOUR DOCKER CONTAINER ITSELF
+
+MAVEN OR GRADLE INDUSTRY IN CONTAINER
+
+ CMD DOCKER STATS
+
+  
+           Let me check users 
+Post jenkins installation
+Which are all the users in my system
+
+Sudo  cat   /etc/passwd
+ Users are there in system jenkins it  is home dir
+
+Post installation of jenkins , you are trying to check which all are the users in linux
+ Cat etc/passwd
+
+Jenkins user by default created not forgot this
+The default home dir of j /var/lib/jenkins.  Login with bash shell
+
+Able to install normal user or sudo user ubuntu install pkgs
+
+Now if you want to be jenkins user 
+The root and sudo su -jenkins
+Jenkins user can install pkg asked passwd
+You can’t do because jenkins is a normal user
+
+
+
+
